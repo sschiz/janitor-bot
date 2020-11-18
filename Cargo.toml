@@ -2,9 +2,20 @@
 name = "janitor"
 version = "0.1.0"
 authors = ["sschiz <mcldresner@protonmail.com>"]
+license = "GPL-3.0"
+readme = "README.md"
+homepage = "https://github.com/sschiz/janitor-bot"
+repository = "https://github.com/sschiz/janitor-bot"
+description = """\
+    This is a bot that removes users trying to join to a chat that is designed for comments.
+"""
+keywords = ["bot", "telegram", "janitor"]
+categories = [
+    "bot",
+    "telegram-bot",
+    "telegram",
+]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 log = "0.4.8"
