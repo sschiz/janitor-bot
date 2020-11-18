@@ -1,5 +1,12 @@
 # Janitor
 
+[![Newest release on crates.io][crate-version-badge]][crate-link]
+[![Project license][crate-license-badge]](LICENSE)
+
+[crate-license-badge]: https://img.shields.io/crates/l/janitor-bot.svg
+[crate-link]: https://crates.io/crates/janitor-bot
+[crate-version-badge]: https://img.shields.io/crates/v/janitor-bot.svg
+
 This is a bot that removes users trying to join to a chat that is designed for comments. 
 
 ## Run 
