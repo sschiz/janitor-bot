@@ -10,11 +10,6 @@ description = """\
     This is a bot that removes users trying to join to a chat that is designed for comments.
 """
 keywords = ["bot", "telegram", "janitor"]
-categories = [
-    "bot",
-    "telegram-bot",
-    "telegram",
-]
 edition = "2018"
 
 [dependencies]
