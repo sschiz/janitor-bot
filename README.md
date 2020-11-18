@@ -18,7 +18,7 @@ $ TELOXIDE_TOKEN=<your token> cargo run
   
 To run using Docker execute:
 ```shell script
-$ docker run \
+$ docker run -d \
  --env TELOXIDE_TOKEN=<your token> \
  --name janitor-bot sschiz/janitor-bot:latest
 ```
